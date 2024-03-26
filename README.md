@@ -2,9 +2,16 @@
 
 This is a Ulauncher extension to search on Youtube.
 
+## About this fork
+
+This fork works same as original from [NastuzziSamy](https://github.com/NastuzziSamy/ulauncher-youtube-search) but it will prefer opening videos in MPV rather than in the browser.
+
+If you haven't installed `mpv` or it is not available in the PATH, the behavior will fallback to open the video in the browser.
+
 ## Table of Contents
 
 - [Youtube Search](#youtube-search)
+  - [About this fork](#about-this-fork)
   - [Table of Contents](#table-of-contents)
   - [Screenshot](#screenshot)
   - [Installation](#installation)
